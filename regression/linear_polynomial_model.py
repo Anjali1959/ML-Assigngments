@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
 
-# Dataset load karna (Jo aapne pehle upload kiya tha)
+
 df = pd.read_csv('student_data.csv')
 
 # 1. Linear Regression
